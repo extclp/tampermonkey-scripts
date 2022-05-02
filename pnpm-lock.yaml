@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/tampermonkey': ^4.0.5
+
+devDependencies:
+  '@types/tampermonkey': 4.0.5
+
+packages:
+
+  /@types/tampermonkey/4.0.5:
+    resolution: {integrity: sha512-FGPo7d+qZkDF7vyrwY1WNhcUnfDyVpt2uyL7krAu3WKCUMCfIUzOuvt8aSk8N2axHT8XPr9stAEDGVHLvag6Pw==}
+    dev: true
