@@ -10,6 +10,4 @@
 // @run-at       document-start
 // ==/UserScript==
 
-GM_addStyle(
-  ".main-container{width:100%;margin:auto}.global-navigation,.fandom-sticky-header,.global-footer,.mcf-wrapper{display:none}"
-);
+GM_addStyle(".main-container{width:100%;margin:auto}.global-navigation,.fandom-sticky-header,.global-footer,.mcf-wrapper{display:none !important}");
