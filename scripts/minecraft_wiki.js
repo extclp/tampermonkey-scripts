@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Minecraft Wiki界面优化
+// @name         Minecraft Wiki 界面优化
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
