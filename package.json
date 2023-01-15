@@ -1,5 +1,5 @@
 {
 	"devDependencies": {
-		"@types/tampermonkey": "^4.0.5"
+		"@types/tampermonkey": "^4.0.8"
 	}
 }
